@@ -4,7 +4,7 @@
  - [Demo](https://themewagon.github.io/atom/)
 
 #### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/atom/)
+ - [Download from ThemeWagon](https://themewagon.com/themes/atom-tailwind/)
 
 ## Getting Started
 
